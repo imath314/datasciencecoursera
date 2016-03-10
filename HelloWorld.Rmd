@@ -4,8 +4,7 @@ author: "imath314"
 date: "March 9, 2016"
 output: html_document
 ---
-## This is a markdown file
-
+##This is a markdown file
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
